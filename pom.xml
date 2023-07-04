@@ -18,7 +18,7 @@
     </properties>
     <dependencies>
 
-        <!--Nacos-->
+        <!--Nacos 0.2.x对应SpringBoot2.x版本-->
              
         <dependency>
             <groupId>com.alibaba.boot</groupId>
