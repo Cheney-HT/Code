@@ -17,12 +17,7 @@
         <java.version>11</java.version>
     </properties>
     <dependencies>
-        <!--velocity模板引擎-->
-        <dependency>
-            <groupId>org.apache.velocity</groupId>
-            <artifactId>velocity-engine-core</artifactId>
-            <version>2.3</version>
-        </dependency>
+
         <!--Lomback简化pojo实体开发-->
         <dependency>
             <groupId>org.projectlombok</groupId>
