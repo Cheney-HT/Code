@@ -18,6 +18,14 @@
     </properties>
     <dependencies>
 
+        <!--Nacos-->
+             
+        <dependency>
+            <groupId>com.alibaba.boot</groupId>
+            <artifactId>nacos-config-spring-boot-starter</artifactId>
+            <version>0.2.11</version>
+        </dependency>
+             
         <!--Lomback简化pojo实体开发-->
              
         <dependency>
