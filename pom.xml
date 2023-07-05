@@ -17,8 +17,14 @@
         <java.version>11</java.version>
     </properties>
     <dependencies>
-
-        <!--Nacos 0.2.x对应SpringBoot2.x版本-->
+         <!---->
+         <!---->
+         <!---->
+         <!---->
+         <!---->
+         <!---->
+             
+         <!--Nacos 0.2.x对应SpringBoot2.x版本-->
              
         <dependency>
             <groupId>com.alibaba.boot</groupId>
