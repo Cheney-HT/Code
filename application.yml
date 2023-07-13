@@ -1,6 +1,12 @@
 server:
   port: 80
 spring:
+  rabbitmq:
+    host: 192.168.121.128 #rabbitmq的ip地址
+    port: 5672 #端口
+    username: root
+    password: root
+    virtual-host: / #虚拟主机
   datasource:
     password: root
     username: root
